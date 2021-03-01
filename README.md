@@ -29,6 +29,9 @@ Layout => https://www.figma.com/file/ZX3XOso5AovkNOQVqoEQum/My-Todo-List?node-id
   </li>
 </ol>
 
+## Assets
+Download Assets: https://vidafullstack.com.br/wp-content/uploads/2021/03/to-do-list-assets.zip
+
 ## Pluss
 Essa lista deverá ser salva no localStorage.
 
