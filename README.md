@@ -36,4 +36,4 @@ Download Assets: https://vidafullstack.com.br/wp-content/uploads/2021/03/to-do-l
 Essa lista deverá ser salva no localStorage.
 
 ## Build
-Suba seu código no github e ghPages como este exemplo => [ https://troquatte.github.io/curso-angular-todo-list/ ]
+Suba seu código no github e ghPages como este exemplo => [ https://troquatte.github.io/curso-angular-to-do-list/ ]
