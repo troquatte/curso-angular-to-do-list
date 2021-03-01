@@ -15,7 +15,7 @@ Layout => https://www.figma.com/file/ZX3XOso5AovkNOQVqoEQum/My-Todo-List?node-id
     ela será enviada para uma lista, onde o usuário poderá fazer algumas ações, como:
       <ul>    
         <li>
-          <strong>Checked:</strong> Assim que o usuário  no input checked sua tarefa estará pronta e deverá ir para o final da lista.
+          <strong>Checked:</strong> Assim que o usuário clicar no input checked sua tarefa estará pronta e deverá ir para o final da lista.
         </li>
         <li>
           <strong>Delete:</strong> Assim que o usuário clicar no icone de lixeira sua tarefa deverá ser deletada.
@@ -31,5 +31,4 @@ Layout => https://www.figma.com/file/ZX3XOso5AovkNOQVqoEQum/My-Todo-List?node-id
 Essa lista deverá ser salva no localStorage.
 
 ## Build
-Suba seu código no github e ghPages como este exemplo => https://troquatte.github.io/curso-angular-
--list/
+Suba seu código no github e ghPages como este exemplo => [ https://troquatte.github.io/curso-angular-todo-list/ ]
