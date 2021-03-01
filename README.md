@@ -5,14 +5,13 @@ Layout => https://www.figma.com/file/ZX3XOso5AovkNOQVqoEQum/My-Todo-List?node-id
 <p>To-Do Lists são listas de todas as tarefas que você precisa realizar, ou seja, elas listam tudo que você tem a fazer</p>
 <ol>
   <li>
-    Nessa ferramenta o usuário poderá adicionar tarefas diárias, podendo marcar que completou ou deletar a tarefas selecionada.
+    Nessa ferramenta o usuário poderá adicionar tarefas diárias, podendo marcar que completo ou até mesmo deletar a tarefas selecionada.
   </li>
   <li>
     No campo adicionar tarefas, ele terá que digitar um valor especifico que será adicionado na lista de tarefas. 
   </li>
   <li>
-    Assim que ele adicionar a 
-    ela será enviada para uma lista, onde o usuário poderá fazer algumas ações, como:
+    Assim que ele adicionar a tarefa será enviada para uma lista, onde o usuário poderá fazer algumas ações, como:
       <ul>    
         <li>
           <strong>Checked:</strong> Assim que o usuário clicar no input checked sua tarefa estará pronta e deverá ir para o final da lista.
@@ -23,7 +22,10 @@ Layout => https://www.figma.com/file/ZX3XOso5AovkNOQVqoEQum/My-Todo-List?node-id
       </ul>
   </li>
   <li>
-    Botão deletar todas as tarefas. 
+    Botão deletar todas as tarefas.
+      <ul>
+        <li>Assim que clicar no botão deverá aparecer uma confirmação para deletar tudo.</li>
+      </ul>
   </li>
 </ol>
 
