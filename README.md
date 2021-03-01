@@ -1,6 +1,6 @@
 # Requerimento
 
-**Você deverá criar um todo list de acordo com o layout no figma.**<br>
+**Você deverá criar um to-do list de acordo com o layout no figma.**<br>
 Layout => https://www.figma.com/file/ZX3XOso5AovkNOQVqoEQum/My-Todo-List?node-id=0%3A1
 <p>To-Do Lists são listas de todas as tarefas que você precisa realizar, ou seja, elas listam tudo que você tem a fazer</p>
 <ol>
@@ -31,4 +31,5 @@ Layout => https://www.figma.com/file/ZX3XOso5AovkNOQVqoEQum/My-Todo-List?node-id
 Essa lista deverá ser salva no localStorage.
 
 ## Build
-Suba seu código no github e ghPages como este exemplo => https://troquatte.github.io/curso-angular-todo-list/
+Suba seu código no github e ghPages como este exemplo => https://troquatte.github.io/curso-angular-
+-list/
