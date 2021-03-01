@@ -1,0 +1,26 @@
+@import '../../../../../dist/sass/variables.scss';
+
+
+:host {
+  display: flex;
+  justify-content: center;
+  margin-top: -20px;
+
+  input{
+    width: 80%;
+
+    border: none;
+    background: $primary-color;
+
+    font-size: 16px;
+    color: $primary-text-color;
+    text-align: center;
+
+    padding: 10px;
+    box-sizing: border-box;
+
+    &::placeholder{
+      color: $primary-text-color;
+    }
+  }
+}
