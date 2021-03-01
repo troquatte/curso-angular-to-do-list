@@ -1,7 +1,7 @@
 # Requerimento
 
 **Você deverá criar um to-do list de acordo com o layout no figma.**<br>
-Layout => https://www.figma.com/file/ZX3XOso5AovkNOQVqoEQum/My-Todo-List?node-id=0%3A1
+Layout: https://www.figma.com/file/ZX3XOso5AovkNOQVqoEQum/My-Todo-List?node-id=0%3A1
 <p>To-Do Lists são listas de todas as tarefas que você precisa realizar, ou seja, elas listam tudo que você tem a fazer</p>
 <ol>
   <li>
