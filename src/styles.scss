@@ -1,4 +1,4 @@
-@import './dist/sass/variables.scss';
+@import './dist/scss/variables.scss';
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
 *{
@@ -12,10 +12,8 @@ body{
   background: $primary-background-color;
 }
 
-.container{
-  width: 350px;
-  margin: 0 auto;
-  margin-top: 50px;
+ul{
+  list-style: none;
 }
 
 textarea:focus, input:focus, button{
@@ -24,4 +22,10 @@ textarea:focus, input:focus, button{
 
 button{
   cursor: pointer;
+}
+
+//Classes
+.container{
+  width: 350px;
+  margin: 50px auto;
 }

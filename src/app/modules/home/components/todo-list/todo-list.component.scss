@@ -1,10 +1,10 @@
-@import '../../../../../dist/sass/variables.scss';
+@import '../../../../../dist/scss/variables.scss';
 
 section{
   width: 100%;
   min-height: 250px;
 
-  background: $secundary-background-color;
+  background: $secondary-background-color;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.08);
 
   margin-top: 20px;
@@ -16,7 +16,6 @@ section{
   }
 
   ul{
-    list-style: none;
     padding: 20px;
 
     li{
@@ -36,7 +35,7 @@ section{
           border: none;
 
           font-size: 16px;
-          color: $secundary-text-color;
+          color: $primary-text-color;
           &.checked{
             text-decoration: line-through;
           }

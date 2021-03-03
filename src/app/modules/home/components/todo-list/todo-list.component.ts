@@ -17,7 +17,7 @@ export class TodoListComponent implements DoCheck {
     this.setLocalStorage()
   }
 
-  public setEmmitItemTaskList(event: string) {
+  public setEmitTaskList(event: string) {
     return this.taskList.push({ task: event, checked: false });
   }
 
@@ -36,7 +36,7 @@ export class TodoListComponent implements DoCheck {
   public validationInput(event: string, index: number) {
 
     if (!event.length) {
-      const confirm = window.confirm("Task está sem valor, deseja deletar?");
+      const confirm = window.confirm("Task está sem vazia, deseja deletar?");
 
       if (confirm) {
         this.deleteItemTaskList(index);
